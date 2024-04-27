@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Задание 10\Задание 10\bin\Debug\net8.0-windows\Задание 10.exe
+C:\Users\PC\source\repos\Задание 10\Задание 10\bin\Debug\net8.0-windows\Задание 10.deps.json
+C:\Users\PC\source\repos\Задание 10\Задание 10\bin\Debug\net8.0-windows\Задание 10.runtimeconfig.json
+C:\Users\PC\source\repos\Задание 10\Задание 10\bin\Debug\net8.0-windows\Задание 10.dll
+C:\Users\PC\source\repos\Задание 10\Задание 10\bin\Debug\net8.0-windows\Задание 10.pdb
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\Задание_10.Form1.resources
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\Задание 10.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\Задание 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\Задание 10.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\Задание 10.AssemblyInfo.cs
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\Задание 10.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\Задание 10.dll
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\refint\Задание 10.dll
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\Задание 10.pdb
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\Задание 10.genruntimeconfig.cache
+C:\Users\PC\source\repos\Задание 10\Задание 10\obj\Debug\net8.0-windows\ref\Задание 10.dll
